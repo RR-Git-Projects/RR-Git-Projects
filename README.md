@@ -5,7 +5,7 @@
 # <p align="center">💫 About Me 💫</p>
 <p align="center">
   <b>🔭 Current Work... 🔭</b><br>
-    Creating a centralized data analysis toolchain for <a href="https://www.ascmtech.com/">ASCM</a>. The system pulls data from a variety of hardware systems and stores it in a central database, which can be accessed by a web-based front end.<br><br>
+    Creating a centralized data analysis toolchain for <a href="https://www.ascmtech.com/">Advanced Silicon Carbide Materials</a>. The system pulls data from a variety of hardware systems and stores it in a central database, which can be accessed by a web-based front end.<br><br>
   <b>👯 ...Collaboration Possibilities... 👯</b><br>
     Fun/hobby coding projects! Maybe a video game? Let me know!<br><br>
   <b>🌱 ...Currently Learning... 🌱</b><br>
